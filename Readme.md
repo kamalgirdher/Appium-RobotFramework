@@ -1,5 +1,7 @@
 #Appium + Java
 
+
+## Content
 1. Setup and Installation
 2. Important adb commands
 3. Launch application
@@ -22,3 +24,32 @@
 9. emulators
 10. Real devices versus emulators
  
+
+
+
+## Setup and Installation
+
+**Tutorial : **
+
+### Downloads
+	1. Download and install Java (JDK).
+	2. Download and install Eclipse
+	3. Download and install Android Studio
+	4. Download and install Appium
+
+### Set Environment Variables
+	1. JAVA_HOME = <path of jdk>
+	2. ANDROID_HOME = <path of sdk>
+	3. PATH
+
+
+### Check Setup
+	1. To check java
+	
+	2. To check adb
+	
+	3. To check aapt
+	
+	4. To check uiautomatorviewer
+	
+
